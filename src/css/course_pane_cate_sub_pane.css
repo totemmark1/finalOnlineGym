@@ -1,0 +1,11 @@
+#label_cate_description{
+    -fx-font-family: "Calibri";
+    -fx-font-size: 16px;
+    -fx-text-fill: rgba(200,200,200,1);
+    -fx-background-color:  rgba(32,32,32,0.6);
+}
+#label_cate_description:hover{
+    -fx-text-fill: rgba(255,255,255,1);
+    -fx-background-color:  rgba(32,32,32,0.8);
+    -fx-opacity: 0.8;
+}

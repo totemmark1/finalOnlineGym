@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="pane_live_sessions" prefHeight="623.0" prefWidth="772.0" style="-fx-background-color: #FFFF;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label prefHeight="95.0" prefWidth="283.0" text="Live Sessions">
+         <font>
+            <Font name="Arial" size="33.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

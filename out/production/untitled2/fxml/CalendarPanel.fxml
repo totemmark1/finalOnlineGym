@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="pane_calendar" prefHeight="623.0" prefWidth="772.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox layoutX="26.0" layoutY="22.0" prefHeight="45.0" prefWidth="453.0" style="-fx-background-color: #F0F0F0;">
+         <children>
+            <Label alignment="CENTER" prefHeight="55.0" prefWidth="106.0" text="SUN">
+               <font>
+                  <Font name="Arial" size="15.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="55.0" prefWidth="106.0" text="MON">
+               <font>
+                  <Font name="Arial" size="15.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="55.0" prefWidth="106.0" text="TUE">
+               <font>
+                  <Font name="Arial" size="15.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="55.0" prefWidth="106.0" text="WED">
+               <font>
+                  <Font name="Arial" size="15.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="55.0" prefWidth="106.0" text="THU">
+               <font>
+                  <Font name="Arial" size="15.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="55.0" prefWidth="106.0" text="FRI">
+               <font>
+                  <Font name="Arial" size="15.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="55.0" prefWidth="101.0" text="SAT">
+               <font>
+                  <Font name="Arial" size="15.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <GridPane fx:id="grid_pane_calendar" gridLinesVisible="true" layoutX="26.0" layoutY="85.0" prefHeight="510.0" prefWidth="453.0" style="-fx-background-color: #FFFF;">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+      </GridPane>
+      <ScrollPane fx:id="scrollpane_calendar_daily_details" hbarPolicy="NEVER" layoutX="503.0" layoutY="88.0" prefHeight="510.0" prefWidth="303.0" style="-fx-border-color: #F0F0F0; -fx-background-color: #FFFF;">
+         <content>
+            <VBox fx:id="hbox_calendar_daily_details" prefHeight="511.0" prefWidth="301.0" />
+         </content>
+      </ScrollPane>
+      <Label layoutX="503.0" layoutY="22.0" prefHeight="45.0" prefWidth="100.0" text="Details">
+         <font>
+            <Font name="Calibri Light" size="22.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>
