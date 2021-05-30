@@ -1,0 +1,953 @@
+{
+  "name": "Session",
+  "type": "session",
+  "item": [
+    {
+      "create time": "1622201252",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Outdoor Run"
+    },
+    {
+      "duration": "2596",
+      "calories": "360",
+      "rate": "Medium",
+      "HR1": "1526",
+      "HR2": "3502",
+      "HR3": "2387",
+      "HR4": "168",
+      "HR5": "2415",
+      "create time": "1621976710",
+      "status": "Not finished",
+      "type": "Live",
+      "genre": "Treadmill"
+    },
+    {
+      "create time": "1620270371",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Open Water Swim"
+    },
+    {
+      "duration": "6701",
+      "calories": "1767",
+      "rate": "Hard",
+      "HR1": "2533",
+      "HR2": "2008",
+      "HR3": "764",
+      "HR4": "3169",
+      "HR5": "1523",
+      "create time": "1619948379",
+      "status": "Completed",
+      "type": "Self Training",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "create time": "1620147413",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Pool Swim"
+    },
+    {
+      "duration": "3142",
+      "calories": "740",
+      "rate": "Very Easy",
+      "HR1": "1189",
+      "HR2": "5001",
+      "HR3": "964",
+      "HR4": "1610",
+      "HR5": "1234",
+      "create time": "1622438675",
+      "status": "Completed",
+      "type": "Live",
+      "genre": "Outdoor Run"
+    },
+    {
+      "create time": "1621462611",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "create time": "1621820137",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "duration": "3729",
+      "calories": "724",
+      "rate": "Easy",
+      "HR1": "2499",
+      "HR2": "1195",
+      "HR3": "1214",
+      "HR4": "2602",
+      "HR5": "2487",
+      "create time": "1620088946",
+      "status": "Completed",
+      "type": "Self Training",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "duration": "1598",
+      "calories": "288",
+      "rate": "Hard",
+      "HR1": "3413",
+      "HR2": "47",
+      "HR3": "3368",
+      "HR4": "571",
+      "HR5": "2598",
+      "create time": "1621833637",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Treadmill"
+    },
+    {
+      "create time": "1622081916",
+      "status": "Canceled",
+      "type": "Self Training",
+      "genre": "Pool Swim"
+    },
+    {
+      "duration": "920",
+      "calories": "178",
+      "rate": "Easy",
+      "HR1": "2109",
+      "HR2": "1001",
+      "HR3": "2221",
+      "HR4": "962",
+      "HR5": "3704",
+      "create time": "1620510502",
+      "status": "Not finished",
+      "type": "Live",
+      "genre": "Pool Swim"
+    },
+    {
+      "duration": "3167",
+      "calories": "702",
+      "rate": "Very Easy",
+      "HR1": "1384",
+      "HR2": "3551",
+      "HR3": "1046",
+      "HR4": "549",
+      "HR5": "3468",
+      "create time": "1620410443",
+      "status": "Not finished",
+      "type": "Live",
+      "genre": "Floor Climb"
+    },
+    {
+      "duration": "675",
+      "calories": "102",
+      "rate": "Medium",
+      "HR1": "2021",
+      "HR2": "2426",
+      "HR3": "2260",
+      "HR4": "2445",
+      "HR5": "845",
+      "create time": "1620051236",
+      "status": "Not finished",
+      "type": "Self Training",
+      "genre": "Open Water Swim"
+    },
+    {
+      "create time": "1621383668",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Pool Swim"
+    },
+    {
+      "duration": "1918",
+      "calories": "319",
+      "rate": "Very Hard",
+      "HR1": "3698",
+      "HR2": "699",
+      "HR3": "354",
+      "HR4": "1938",
+      "HR5": "3310",
+      "create time": "1622148673",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Treadmill"
+    },
+    {
+      "duration": "2555",
+      "calories": "602",
+      "rate": "Very Hard",
+      "HR1": "2156",
+      "HR2": "2217",
+      "HR3": "2537",
+      "HR4": "282",
+      "HR5": "2806",
+      "create time": "1622320025",
+      "status": "Completed",
+      "type": "Live",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "duration": "887",
+      "calories": "122",
+      "rate": "Easy",
+      "HR1": "1475",
+      "HR2": "1850",
+      "HR3": "1743",
+      "HR4": "2365",
+      "HR5": "2565",
+      "create time": "1621127635",
+      "status": "Not finished",
+      "type": "Live",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "create time": "1622461684",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1620726714",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Open Water Swim"
+    },
+    {
+      "create time": "1620713405",
+      "status": "Planned",
+      "type": "Self Training",
+      "genre": "Treadmill"
+    },
+    {
+      "duration": "160",
+      "calories": "32",
+      "rate": "Hard",
+      "HR1": "774",
+      "HR2": "2308",
+      "HR3": "4774",
+      "HR4": "999",
+      "HR5": "1143",
+      "create time": "1620973924",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Floor Climb"
+    },
+    {
+      "create time": "1620175061",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Pool Swim"
+    },
+    {
+      "create time": "1621866674",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "create time": "1621062958",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Outdoor Run"
+    },
+    {
+      "duration": "5803",
+      "calories": "886",
+      "rate": "Hard",
+      "HR1": "3003",
+      "HR2": "86",
+      "HR3": "3783",
+      "HR4": "1029",
+      "HR5": "2097",
+      "create time": "1622474708",
+      "status": "Completed",
+      "type": "Self Training",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "duration": "4330",
+      "calories": "1021",
+      "rate": "Very Hard",
+      "HR1": "2680",
+      "HR2": "1500",
+      "HR3": "653",
+      "HR4": "3857",
+      "HR5": "1307",
+      "create time": "1622154574",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Pool Swim"
+    },
+    {
+      "duration": "2032",
+      "calories": "535",
+      "rate": "Very Hard",
+      "HR1": "1425",
+      "HR2": "1334",
+      "HR3": "2230",
+      "HR4": "2936",
+      "HR5": "2073",
+      "create time": "1621902259",
+      "status": "Not finished",
+      "type": "Self Training",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "duration": "5256",
+      "calories": "1095",
+      "rate": "Very Hard",
+      "HR1": "278",
+      "HR2": "1858",
+      "HR3": "3181",
+      "HR4": "2502",
+      "HR5": "2179",
+      "create time": "1620861494",
+      "status": "Completed",
+      "type": "Live",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "create time": "1621984571",
+      "status": "Canceled",
+      "type": "Self Training",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "create time": "1620195387",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1621375355",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "create time": "1621239706",
+      "status": "Canceled",
+      "type": "Self Training",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "create time": "1622122437",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Outdoor Run"
+    },
+    {
+      "create time": "1620672989",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Outdoor Run"
+    },
+    {
+      "duration": "4306",
+      "calories": "776",
+      "rate": "Hard",
+      "HR1": "2072",
+      "HR2": "964",
+      "HR3": "1240",
+      "HR4": "2512",
+      "HR5": "3209",
+      "create time": "1619976919",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Open Water Swim"
+    },
+    {
+      "duration": "2901",
+      "calories": "764",
+      "rate": "Easy",
+      "HR1": "1803",
+      "HR2": "1956",
+      "HR3": "1245",
+      "HR4": "2772",
+      "HR5": "2221",
+      "create time": "1620056058",
+      "status": "Not finished",
+      "type": "Self Training",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1620111065",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1622131406",
+      "status": "Planned",
+      "type": "Self Training",
+      "genre": "Open Water Swim"
+    },
+    {
+      "create time": "1620028164",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Open Water Swim"
+    },
+    {
+      "duration": "3671",
+      "calories": "611",
+      "rate": "Easy",
+      "HR1": "2965",
+      "HR2": "1788",
+      "HR3": "1221",
+      "HR4": "2157",
+      "HR5": "1867",
+      "create time": "1620276347",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Outdoor Run"
+    },
+    {
+      "duration": "788",
+      "calories": "163",
+      "rate": "Very Hard",
+      "HR1": "1977",
+      "HR2": "3254",
+      "HR3": "1592",
+      "HR4": "2308",
+      "HR5": "868",
+      "create time": "1622155276",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "duration": "1948",
+      "calories": "324",
+      "rate": "Very Hard",
+      "HR1": "1757",
+      "HR2": "920",
+      "HR3": "3632",
+      "HR4": "3620",
+      "HR5": "70",
+      "create time": "1621454678",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Outdoor Run"
+    },
+    {
+      "duration": "4153",
+      "calories": "749",
+      "rate": "Hard",
+      "HR1": "3240",
+      "HR2": "73",
+      "HR3": "2141",
+      "HR4": "1432",
+      "HR5": "3111",
+      "create time": "1621570632",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Floor Climb"
+    },
+    {
+      "duration": "4973",
+      "calories": "1104",
+      "rate": "Medium",
+      "HR1": "4313",
+      "HR2": "484",
+      "HR3": "4250",
+      "HR4": "530",
+      "HR5": "421",
+      "create time": "1619825113",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1622383488",
+      "status": "Canceled",
+      "type": "Self Training",
+      "genre": "Outdoor Run"
+    },
+    {
+      "create time": "1620771971",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Outdoor Run"
+    },
+    {
+      "create time": "1620629485",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "create time": "1621132427",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Walk"
+    },
+    {
+      "create time": "1621808957",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Outdoor Run"
+    },
+    {
+      "duration": "4657",
+      "calories": "840",
+      "rate": "Hard",
+      "HR1": "3683",
+      "HR2": "1530",
+      "HR3": "2973",
+      "HR4": "467",
+      "HR5": "1346",
+      "create time": "1622241119",
+      "status": "Completed",
+      "type": "Self Training",
+      "genre": "Treadmill"
+    },
+    {
+      "create time": "1621300891",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Pool Swim"
+    },
+    {
+      "duration": "4598",
+      "calories": "766",
+      "rate": "Very Hard",
+      "HR1": "3201",
+      "HR2": "3612",
+      "HR3": "187",
+      "HR4": "1450",
+      "HR5": "1547",
+      "create time": "1620255029",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1620265384",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Floor Climb"
+    },
+    {
+      "duration": "617",
+      "calories": "119",
+      "rate": "Medium",
+      "HR1": "2643",
+      "HR2": "4674",
+      "HR3": "588",
+      "HR4": "1395",
+      "HR5": "697",
+      "create time": "1622307011",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Open Water Swim"
+    },
+    {
+      "duration": "3342",
+      "calories": "557",
+      "rate": "Very Easy",
+      "HR1": "2388",
+      "HR2": "2083",
+      "HR3": "2376",
+      "HR4": "790",
+      "HR5": "2361",
+      "create time": "1621843511",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Open Water Swim"
+    },
+    {
+      "create time": "1620502134",
+      "status": "Planned",
+      "type": "Self Training",
+      "genre": "Treadmill"
+    },
+    {
+      "duration": "5082",
+      "calories": "1270",
+      "rate": "Hard",
+      "HR1": "836",
+      "HR2": "2472",
+      "HR3": "2982",
+      "HR4": "1193",
+      "HR5": "2516",
+      "create time": "1620341519",
+      "status": "Not finished",
+      "type": "Live",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "create time": "1620362877",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Strength"
+    },
+    {
+      "duration": "4743",
+      "calories": "855",
+      "rate": "Medium",
+      "HR1": "2923",
+      "HR2": "726",
+      "HR3": "2992",
+      "HR4": "1718",
+      "HR5": "1639",
+      "create time": "1620344765",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Treadmill"
+    },
+    {
+      "create time": "1622051946",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Walk"
+    },
+    {
+      "duration": "5219",
+      "calories": "1158",
+      "rate": "Easy",
+      "HR1": "3344",
+      "HR2": "1527",
+      "HR3": "1691",
+      "HR4": "55",
+      "HR5": "3381",
+      "create time": "1620982394",
+      "status": "Completed",
+      "type": "Live",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1619928825",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Walk"
+    },
+    {
+      "create time": "1620605126",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Open Water Swim"
+    },
+    {
+      "create time": "1620600159",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Treadmill"
+    },
+    {
+      "create time": "1620143685",
+      "status": "Planned",
+      "type": "Self Training",
+      "genre": "Treadmill"
+    },
+    {
+      "duration": "5131",
+      "calories": "926",
+      "rate": "Very Easy",
+      "HR1": "1471",
+      "HR2": "2832",
+      "HR3": "1474",
+      "HR4": "685",
+      "HR5": "3535",
+      "create time": "1622037803",
+      "status": "Not finished",
+      "type": "Self Training",
+      "genre": "Outdoor Run"
+    },
+    {
+      "duration": "1970",
+      "calories": "328",
+      "rate": "Hard",
+      "HR1": "1914",
+      "HR2": "831",
+      "HR3": "2271",
+      "HR4": "1132",
+      "HR5": "3849",
+      "create time": "1620543636",
+      "status": "Not finished",
+      "type": "Live",
+      "genre": "Pool Swim"
+    },
+    {
+      "create time": "1620138931",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Floor Climb"
+    },
+    {
+      "create time": "1621297939",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Pool Swim"
+    },
+    {
+      "create time": "1621825032",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Treadmill"
+    },
+    {
+      "create time": "1620748188",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Pool Swim"
+    },
+    {
+      "create time": "1619874785",
+      "status": "Planned",
+      "type": "Self Training",
+      "genre": "Pool Swim"
+    },
+    {
+      "create time": "1622456855",
+      "status": "Canceled",
+      "type": "Self Training",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "create time": "1622241010",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1621325418",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Outdoor Run"
+    },
+    {
+      "create time": "1619976404",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Treadmill"
+    },
+    {
+      "duration": "2101",
+      "calories": "525",
+      "rate": "Very Hard",
+      "HR1": "3864",
+      "HR2": "265",
+      "HR3": "3252",
+      "HR4": "628",
+      "HR5": "1988",
+      "create time": "1621862328",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Treadmill"
+    },
+    {
+      "create time": "1622018197",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Open Water Swim"
+    },
+    {
+      "duration": "5862",
+      "calories": "1302",
+      "rate": "Very Hard",
+      "HR1": "1846",
+      "HR2": "3125",
+      "HR3": "816",
+      "HR4": "1223",
+      "HR5": "2988",
+      "create time": "1621028118",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Outdoor Run"
+    },
+    {
+      "create time": "1620046243",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "duration": "5725",
+      "calories": "1351",
+      "rate": "Hard",
+      "HR1": "2054",
+      "HR2": "2018",
+      "HR3": "2282",
+      "HR4": "1890",
+      "HR5": "1754",
+      "create time": "1620183402",
+      "status": "Not finished",
+      "type": "Self Training",
+      "genre": "Open Water Swim"
+    },
+    {
+      "create time": "1620107219",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Walk"
+    },
+    {
+      "create time": "1620421193",
+      "status": "Planned",
+      "type": "Lecture",
+      "genre": "Outdoor Run"
+    },
+    {
+      "create time": "1622022004",
+      "status": "Planned",
+      "type": "Self Training",
+      "genre": "Treadmill"
+    },
+    {
+      "duration": "1865",
+      "calories": "258",
+      "rate": "Easy",
+      "HR1": "2505",
+      "HR2": "2054",
+      "HR3": "603",
+      "HR4": "2688",
+      "HR5": "2147",
+      "create time": "1620486598",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Strength"
+    },
+    {
+      "duration": "3150",
+      "calories": "700",
+      "rate": "Very Hard",
+      "HR1": "1747",
+      "HR2": "2116",
+      "HR3": "2263",
+      "HR4": "1762",
+      "HR5": "2110",
+      "create time": "1620758410",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Walk"
+    },
+    {
+      "create time": "1621093564",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Open Water Swim"
+    },
+    {
+      "create time": "1621536331",
+      "status": "Canceled",
+      "type": "Self Training",
+      "genre": "Pool Swim"
+    },
+    {
+      "duration": "5017",
+      "calories": "696",
+      "rate": "Very Easy",
+      "HR1": "1799",
+      "HR2": "3169",
+      "HR3": "2676",
+      "HR4": "2277",
+      "HR5": "76",
+      "create time": "1621347601",
+      "status": "Not finished",
+      "type": "Live",
+      "genre": "Floor Climb"
+    },
+    {
+      "duration": "5317",
+      "calories": "1329",
+      "rate": "Easy",
+      "HR1": "2959",
+      "HR2": "2910",
+      "HR3": "492",
+      "HR4": "3545",
+      "HR5": "91",
+      "create time": "1622103659",
+      "status": "Not finished",
+      "type": "Self Training",
+      "genre": "Outdoor Cycle"
+    },
+    {
+      "duration": "1982",
+      "calories": "357",
+      "rate": "Very Hard",
+      "HR1": "1649",
+      "HR2": "316",
+      "HR3": "91",
+      "HR4": "4560",
+      "HR5": "3381",
+      "create time": "1620345313",
+      "status": "Completed",
+      "type": "Lecture",
+      "genre": "Open Water Swim"
+    },
+    {
+      "duration": "6130",
+      "calories": "1446",
+      "rate": "Very Hard",
+      "HR1": "3736",
+      "HR2": "2391",
+      "HR3": "1763",
+      "HR4": "1126",
+      "HR5": "982",
+      "create time": "1621115272",
+      "status": "Not finished",
+      "type": "Lecture",
+      "genre": "Outdoor Run"
+    },
+    {
+      "duration": "3624",
+      "calories": "704",
+      "rate": "Easy",
+      "HR1": "1616",
+      "HR2": "3381",
+      "HR3": "1784",
+      "HR4": "1840",
+      "HR5": "1376",
+      "create time": "1622333057",
+      "status": "Not finished",
+      "type": "Live",
+      "genre": "Pool Swim"
+    },
+    {
+      "create time": "1619858126",
+      "status": "Canceled",
+      "type": "Lecture",
+      "genre": "Treadmill"
+    },
+    {
+      "create time": "1620523450",
+      "status": "Canceled",
+      "type": "Live",
+      "genre": "Walk"
+    },
+    {
+      "create time": "1619974696",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Indoor Cycle"
+    },
+    {
+      "duration": "1402",
+      "calories": "271",
+      "rate": "Easy",
+      "HR1": "2163",
+      "HR2": "1805",
+      "HR3": "2344",
+      "HR4": "1756",
+      "HR5": "1930",
+      "create time": "1621396112",
+      "status": "Completed",
+      "type": "Live",
+      "genre": "Strength"
+    },
+    {
+      "create time": "1620170640",
+      "status": "Canceled",
+      "type": "Self Training",
+      "genre": "Open Water Swim"
+    },
+    {
+      "create time": "1621649370",
+      "status": "Planned",
+      "type": "Live",
+      "genre": "Walk"
+    }
+  ]
+}
+   
+
+   
