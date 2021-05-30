@@ -7,6 +7,10 @@ public class FileSearcher {
     static String currentDir;
     static File currentFile;
 
+    public FileSearcher(String home_loc){
+        HOME=home_loc;
+    }
+
     public static void printFiles(File[] files){
         System.out.println("==========");
         if (files != null) {
@@ -113,11 +117,11 @@ public class FileSearcher {
     }
 
     public static void main(String[] args) {
-        FileSearcher fs=new FileSearcher();
-        fs.HOME=new File("").getAbsolutePath();
+        FileSearcher fs=new FileSearcher(new File("").getAbsolutePath());
+        System.out.println(fs.HOME);
         long stime = System.currentTimeMillis();
       String testItem="1.mp4";
-        File resultBFS =fs.findFileByNameDFS("video",testItem);
+        File resultBFS =fs.findFileByNameDFS("data/video",testItem);
         if(resultBFS!=null){
             System.out.printf("finded!");
             System.out.println(resultBFS.getAbsolutePath());

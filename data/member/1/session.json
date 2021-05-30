@@ -1,6 +1,7 @@
 {
   "name": "Session",
   "type": "session",
+  "user-id": 1,
   "item": [
     {
       "create time": "1622201252",

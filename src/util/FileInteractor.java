@@ -1,9 +1,9 @@
 package util;
 
 import com.google.gson.Gson;
-import display.Video;
-import membership.Member;
-import membership.SeniorMember;
+import entities.Video;
+import entities.Member;
+import entities.SeniorMember;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -14,9 +14,9 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class FileInteractor {
-    private String videoDirName;
+    private String videoDirName = "/data/video";
     private Gson gson;
-    private String memberDirName = "MemberData";
+    private String memberDirName = "/data/member";
 
     public FileInteractor(String dirName){
         videoDirName = dirName;
@@ -33,7 +33,7 @@ public class FileInteractor {
      * get the list of all videos in our gym system
      * @return the list of video in our gym system
      */
-    public ArrayList<Video> getVideos(){
+    public ArrayList<Video> getAllVideos(){
         File dir = new File(videoDirName);
         File[] files = dir.listFiles(file -> file.getName().endsWith(".json"));
 
@@ -64,10 +64,13 @@ public class FileInteractor {
      */
     public void storeMemberData(Member member) throws IOException {
         int id = member.getId();
-        File dir = new File(memberDirName + "\\Member" + id);
+        File dir = new File(memberDirName + "\\" + id);
+        System.out.println(dir.getAbsolutePath());
+        System.out.println(memberDirName);
+
         if(!dir.exists())
             dir.mkdirs();
-        FileWriter writer = new FileWriter(memberDirName + "\\Member" + id + "\\member" + id + ".json");
+        FileWriter writer = new FileWriter(memberDirName + "\\" + id + "\\info.json");
         String memberJson = gson.toJson(member);
         writer.write(memberJson);
         writer.close();
@@ -80,7 +83,7 @@ public class FileInteractor {
      * @throws FileNotFoundException file for the member doesn't exits
      */
     public Member getMember(int id) throws FileNotFoundException{
-        File file = new File(memberDirName + "\\Member" + id + "\\member" + id + ".json");
+        File file = new File(memberDirName + "\\" + id + "\\info.json");
         Scanner reader = new Scanner(file);
         String memberJson = reader.nextLine();
         Member member = gson.fromJson(memberJson, Member.class);
@@ -88,9 +91,10 @@ public class FileInteractor {
     }
 
     public static void main(String[] args) {
-        FileInteractor meta = new FileInteractor("VideoMeta", "MemberData");
+        String HOME = new File("").getAbsolutePath();
+        FileInteractor meta = new FileInteractor(HOME + "\\data\\video", HOME + "\\data\\member");
 //        ArrayList<Video> videos = meta.getVideos();
-        Member jack = new Member("Jack", 4, 20, "male", 349.1f, new SeniorMember("VIP", LocalDate.of(2021, 11, 3)));
+        Member jack = new Member("Jack", 4, 20, "male", 349, "(+86)18810232343", new SeniorMember("VIP", LocalDate.of(2021, 11, 3)));
         try {
             meta.storeMemberData(jack);
             jack = meta.getMember(4);
